@@ -1,0 +1,33 @@
+[
+	{ "id": "1", "name": "Naruto", "description": "Naruto VOL 20", "price": 200 },
+	{
+		"id": "3",
+		"name": "Cannon EOS 80D DSLR Camera",
+		"description": "Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design",
+		"price": 929.99
+	},
+	{
+		"id": "4",
+		"name": "Sony Playstation 4 Pro White Version",
+		"description": "The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music",
+		"price": 399.99
+	},
+	{
+		"id": "5",
+		"name": "Logitech G-Series Gaming Mouse",
+		"description": "Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience",
+		"price": 49.99
+	},
+	{
+		"id": "3dae2e9d-3760-41d0-9678-0837f77d64d8",
+		"name": "Naruto",
+		"description": "Naruto VOL 1",
+		"price": 5
+	},
+	{
+		"id": "c68c8eda-9064-4f37-b976-75ab98cce413",
+		"name": "Naruto",
+		"description": "Naruto VOL 2",
+		"price": 5
+	}
+]
